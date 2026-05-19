@@ -1,5 +1,5 @@
 ###################
-Importar la base de datos, ubicada en la rama principal "bd.sql"
+Importar la base de datos ubicada en la rama principal "bd.sql"
 ###################
 
 ###################
