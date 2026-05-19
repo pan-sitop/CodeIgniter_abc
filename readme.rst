@@ -1,4 +1,8 @@
 ###################
+Importar la base de datos, ubicada en la rama principal "bd.sql"
+###################
+
+###################
 What is CodeIgniter
 ###################
 
